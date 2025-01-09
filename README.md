@@ -8,10 +8,6 @@ I specialize in creating **secure**, **high-performance** backend solutions and 
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education**:  
-  - B.Sc. (Hons) in Computer Science and Software Engineering, University of Bedfordshire (2023-2024)  
-  - Graduate Diploma in Software Engineering, Institute of Software Engineering (2021-2023)  
-
 - 💡 **Core Expertise**:
   - Backend Development with **Spring Boot**  
   - Cloud Infrastructure & Solution Architecture  
@@ -58,19 +54,6 @@ I specialize in creating **secure**, **high-performance** backend solutions and 
 - 🔐 Implemented **JWT authentication** for secure API access, enhancing user data protection.  
 - 🚀 Improved system performance with advanced caching strategies using **Redis**.  
 - 🤝 Collaborated with frontend teams for seamless API integration, boosting user experience.
-
----
-
-## 💼 Work Experience
-
-- **Associate Software Engineer**, Lassana Group Of Companies (Nov 2022 - Aug 2024)  
-  Developed optimized backend services, implemented caching strategies, and participated in Agile processes.
-
-- **Software Developer**, Ceylon Linux (Pvt) Ltd (July 2022 - Nov 2022)  
-  Delivered robust solutions in **JavaFX** and database management.
-
-- **Freelancer** (Jan 2022 - June 2022)  
-  Specialized in building visually rich JavaFX client applications and MySQL integration.
 
 ---
 
