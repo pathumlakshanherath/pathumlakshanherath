@@ -9,7 +9,7 @@ I specialize in creating **secure**, **high-performance** backend solutions and 
 ## 👨‍💻 About Me
 
 - 💡 **Core Expertise**:
-  - Backend Development with **Spring Boot**  
+  - Backend Development
   - Cloud Infrastructure & Solution Architecture  
   - DevOps: **CI/CD Pipelines**, **Containerization**, **Orchestration**  
   - API Security: **JWT**, **OAuth**  
