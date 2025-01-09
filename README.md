@@ -6,46 +6,6 @@ I specialize in creating **secure**, **high-performance** backend solutions and 
 
 ---
 
-## 👨‍💻 About Me
-
-- 💡 **Core Expertise**:
-  - Backend Development
-  - Cloud Infrastructure & Solution Architecture  
-  - DevOps: **CI/CD Pipelines**, **Containerization**, **Orchestration**  
-  - API Security: **JWT**, **OAuth**  
-  - Performance Optimization: **Redis**, **Database Tuning**  
-
-- 🌱 **Currently Exploring**: Advanced **cybersecurity** strategies and cutting-edge **cloud-native solutions**.  
-- 💬 **Languages**: Fluent in **Sinhala** and **English**.  
-
----
-
-## 🛠️ Technical Skills
-
-### **Programming & Frameworks**
-- **Languages**: Java, JavaScript, Python  
-- **Frameworks**: Spring Boot, Node.js, NestJS  
-
-### **Cloud Infrastructure**
-- **Platforms**: AWS, GCP  
-- **Services**: EC2, S3, RDS, Lambda, CloudWatch, CloudFormation  
-- **Orchestration Tools**: Kubernetes, Docker  
-
-### **DevOps & CI/CD**
-- **Tools**: Jenkins, GitHub Actions, GitLab CI  
-- **Infrastructure as Code (IaC)**: Terraform, Ansible  
-- **Monitoring**: Prometheus, Grafana  
-
-### **Databases & Caching**
-- **Databases**: MySQL, MongoDB, PostgreSQL, SQLite  
-- **Caching**: Redis, Memcached  
-
-### **Version Control & Collaboration**
-- **Tools**: Git, GitHub, Bitbucket  
-- **Methodologies**: Agile, Scrum  
-
----
-
 ## 📈 Highlights
 
 - 🌐 Architected and deployed scalable cloud solutions, ensuring **99.9% uptime**.  
@@ -54,15 +14,6 @@ I specialize in creating **secure**, **high-performance** backend solutions and 
 - 🔐 Implemented **JWT authentication** for secure API access, enhancing user data protection.  
 - 🚀 Improved system performance with advanced caching strategies using **Redis**.  
 - 🤝 Collaborated with frontend teams for seamless API integration, boosting user experience.
-
----
-
-## 🌐 Let's Connect!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pathum-lakshan/)  
-- 🐦 [Twitter](https://twitter.com/pathumlakshan_1)  
-- 📸 [Instagram](https://www.instagram.com/pathu_m110/)  
-- 💻 [GitHub](https://github.com/pathum-lakshan)  
 
 ---
 
